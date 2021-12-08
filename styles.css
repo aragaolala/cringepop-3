@@ -1,0 +1,145 @@
+h1 {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-size: 40px;
+    color: #71F69B;
+  }
+  
+  h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    
+  }
+
+  h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+  }
+
+  img {
+    border-radius: 50px;
+    width: 30%;
+    margin-bottom: 0.8rem;
+  }
+
+p {
+  align-content: center;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  
+}
+
+button {
+  border-radius: 10px;
+  
+  
+}
+
+  .btn {
+    background: #5438dc;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 8px;
+    color: #ebf2fa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #5438dc 1px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+
+    
+  }
+
+  .header {
+  background-color: #e04ac1;
+  }
+  .corpo{
+    background: #F5FBEF;
+  }
+  
+  
+  .correct {
+    background: blue;
+  }
+  .incorrect {
+    background: red;
+  }
+  .resposta {
+    background: blue;
+    width: 10rem;
+  }
+  .footer {
+    background-color: #FEE54D ; 
+    
+    
+  }
+  
+  .corpo {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  
+  }
+  
+  
+  
+  
+  
+  /***#EE4A34  cor laranja babado  #FFFBFE vermelho. #4D243D cor do corpo
+  
+  
+  .choice-container {
+    display: flex;
+    margin-bottom: 0.8rem;
+    
+    border-radius: 4px;
+    background: #EE6123;
+    font-size: 1.5rem;
+    /*min-width: 80rem; 
+}
+  
+.choice-prefix {
+  padding: 2rem 2.5rem;
+  color: blue;
+}
+.choice-text {
+  padding: 2rem;
+  width: 100%;
+}     
+  
+  @media screen and (max-width: 768px){
+    .choice-container{
+      min-width: 40rem;
+    }
+  
+  #my-div {
+  background-color: lightgrey;
+  width: 200px;
+  height: 200px;
+  }
+  
+  a.fill-div {
+  text-align: center;
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  }
+  
+  
+  
+  */

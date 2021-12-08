@@ -1,0 +1,53 @@
+body {
+    background-color: #e04ac1;
+
+
+}
+h2 {
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-size: 50px;
+}
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+   
+form {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+ span {
+     color: #71F69B;
+     
+ }
+
+.boas-vindas {
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 200px;
+    
+}
+
+.btn {
+     background: #71F69B;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 8px;
+    color: #ebf2fa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    padding: 20px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #71F69B 1px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: center;
+}
